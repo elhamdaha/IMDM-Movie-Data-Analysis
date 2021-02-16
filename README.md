@@ -19,3 +19,6 @@ From this other subquestions can be derived and various other trends explored fo
 3- Popular genres which is mostly watched
 
 4- Budget, revenue, and profit distribution: maximum and minimum budget and revenue
+
+## Findings
+The average revenue generated from the movies are much greater than the budget used for the movies. Moreover, revenue gradually increases over the years. Robert De Niro and Bruce Willis are the casting members who has appeared most number of time.The average movie running time of most number of movies were higher.The Drama genre hold the most number of movies watched followed by comedy.It can be also observed that the number of movie released is increasing over the time. As for profit, the average profit increased in the last few years. However, there are some limitations. As statistical methods are not used to infer information and only basic visualizations are used, the observations may not be accurate.some rows are deleted from data set due to non existent values , this may effect the analysis and USD is considered as common currency for columns reveneu and budget. This may effect the profit trend of movies over the years.
