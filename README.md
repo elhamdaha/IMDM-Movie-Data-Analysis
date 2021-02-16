@@ -13,6 +13,9 @@ The focus of our investigation would revolve around
 From this other subquestions can be derived and various other trends explored for example:
 
 1- Profit Trends of movies over time to find the most profitable movie
+
 2- Average runtime of the movies
+
 3- Popular genres which is mostly watched
+
 4- Budget, revenue, and profit distribution: maximum and minimum budget and revenue
