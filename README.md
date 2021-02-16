@@ -1,6 +1,6 @@
 # Investigating characteristics of movies using IMDB dataset
 
-![alt text](https://github.com/elhamdaha/IMDM-Movie-Data-Analysis/dataset-cover.png=true)
+![alt text](https://github.com/elhamdaha/IMDM-Movie-Data-Analysis/image/dataset-cover.png=true)
 
 ## Introduction
 After briefly going through the IMDB movie dataset, one can start to notice some correlations or trends between various characterstics of the movie. The pertinant business question that any Data Analyst would ask when browsing through this data set is to find out what characterstics of movies produce the highest revenue. This investigation and reaserch would help the film industry to work on those characterstics that would generate the highest revenue and by extension increase the movies popularity
